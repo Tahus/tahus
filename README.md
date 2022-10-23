@@ -9,9 +9,9 @@
     <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=651AF7&width=435&lines=Fullstack+Javascript+Developer;Coffe+Addict;JS+For+Life></p>
 
 
-<h3 align="center">Love JS, love video games and learn more about the world of development.</h3>
+<p align="center">Love JS, love video games and learn more about the world of development.</p>
 
-<h3 align="center">I'm a new web developper and I make some application, always with the aim of improving myself</h3>
+<p align="center">I'm a new web developper and I make some application, always with the aim of improving myself</p>
 
 
 
