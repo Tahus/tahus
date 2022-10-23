@@ -7,7 +7,7 @@
   
 <p style="margin: 15px;" align="center">
     <img src=https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=651AF7&width=435&lines=Fullstack+Javascript+Developer;Coffe+Addict;JS+For+Life></p>
-
+    
 
 <p align="center">Love JS, love video games and learn more about the world of development.</p>
 
@@ -19,6 +19,8 @@
 
 
 ## 🛠  Technologies and tools
+
+
 
 <a name="learning-now"></a>
 
